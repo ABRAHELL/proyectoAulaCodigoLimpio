@@ -10,6 +10,8 @@ namespace PoryectoAulaCodigoLimpio
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("ASFD");
         }
     }
 }
